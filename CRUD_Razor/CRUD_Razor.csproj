@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Pages\Users\Create.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
   </ItemGroup>
 
@@ -20,10 +16,6 @@
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Pages\Users\Create.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Pages\Users\Create.cshtml" />
   </ItemGroup>
 
 </Project>

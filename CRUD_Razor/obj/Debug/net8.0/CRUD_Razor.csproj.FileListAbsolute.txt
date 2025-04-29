@@ -36,3 +36,4 @@ C:\Users\A S P I R E 7\source\repos\CRUD_Razor\CRUD_Razor\bin\Debug\net8.0\runti
 C:\Users\A S P I R E 7\source\repos\CRUD_Razor\CRUD_Razor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\A S P I R E 7\source\repos\CRUD_Razor\CRUD_Razor\obj\Debug\net8.0\CRUD_Razor.csproj.AssemblyReference.cache
 C:\Users\A S P I R E 7\source\repos\CRUD_Razor\CRUD_Razor\obj\Debug\net8.0\CRUD_Razor.csproj.Up2Date
+C:\Users\A S P I R E 7\source\repos\CRUD_Razor\CRUD_Razor\obj\Debug\net8.0\CRUD_Razor.sourcelink.json

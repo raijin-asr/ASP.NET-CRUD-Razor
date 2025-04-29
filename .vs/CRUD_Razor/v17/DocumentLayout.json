@@ -3,27 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/RAIJIN_SQLEXPRESS/master/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|c:\\users\\a s p i r e 7\\source\\repos\\crud_razor\\crud_razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17130154-24DF-4EE2-BEF7-6EE58622161F}|CRUD_Razor\\CRUD_Razor.csproj|solutionrelative:crud_razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Delete.cshtml",
+              "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:21:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwBMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:04:57.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:03:26.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Create.cshtml.cs",
               "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Create.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T07:21:57.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Create.cshtml",
               "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Create.cshtml",
               "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Create.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswBoAAAALAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-25T07:13:25.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Index.cshtml.cs",
-              "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Index.cshtml.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAD4vyoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:49:58.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Users\\Index.cshtml",
-              "RelativeToolTip": "CRUD_Razor\\Pages\\Users\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T15:49:53.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/RAIJIN_SQLEXPRESS/master/True/SqlTable/dbo.users.sql",
-              "ToolTip": "dbo.users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-25T06:59:37.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CRUD_Razor\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\A S P I R E 7\\source\\repos\\CRUD_Razor\\CRUD_Razor\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CRUD_Razor\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T15:47:59.274Z",
               "EditorCaption": ""
             }
           ]
