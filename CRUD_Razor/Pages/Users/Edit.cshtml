@@ -1,0 +1,61 @@
+﻿@page
+@model CRUD_Razor.Pages.Users.EditModel
+@{
+}
+
+<br>
+<h2>Edit User</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@Model.errorMessage</strong>
+    </div>
+}
+
+
+<form method="POST">
+    <input type="hidden" class="form-control" name="id" value="@Model.userInfo.id" />
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Name</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="name" value="@Model.userInfo.name" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Email</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="email" value="@Model.userInfo.email" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Address</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="address" value="@Model.userInfo.address" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Phone</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="Phone" value="@Model.userInfo.phone" />
+        </div>
+    </div>
+
+    @if (Model.successMessage.Length > 0)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@Model.successMessage</strong>
+        </div>
+    }
+
+
+    <div class="row mb-3">
+        <div class="col-sm-3 offset-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div class="col-sm-6 d-grid">
+            <a href="/" class="btn btn-outline-primary" role="button">Cancel</a>
+        </div>
+    </div>
+</form>

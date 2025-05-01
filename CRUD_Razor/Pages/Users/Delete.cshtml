@@ -1,0 +1,49 @@
+﻿@page
+@using System.Data.SqlClient;
+
+@{
+    ViewData["Title"] = "Delete User";
+    string errorMessage = string.Empty;
+    string successMessage = string.Empty;
+
+
+    try{
+        String userId = Request.Query["id"];
+
+        String connectionString = "Data Source=RAIJIN\\SQLEXPRESS;Initial Catalog=master;Integrated Security=True;";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            string query = "DELETE FROM Users WHERE id = @id";
+            using (SqlCommand command = new SqlCommand(query, connection))
+            {
+                command.Parameters.AddWithValue("@id", userId);
+                command.ExecuteNonQuery();
+            }
+        }
+    }
+    catch (Exception ex)
+    {
+        errorMessage = ex.Message;
+    }
+    if (errorMessage.Length > 0)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <strong>@errorMessage</strong>
+        </div>
+    }
+    else
+    {
+        successMessage = "User deleted successfully.";
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@successMessage</strong>
+        </div>
+    }
+    //show success message for 3 seconds and redirect to index page
+    System.Threading.Thread.Sleep(3000);
+    //if error, then do not redirect, just show error
+    if (errorMessage.Length == 0)
+    {
+        Response.Redirect("/Users/Index");
+    }
+}
